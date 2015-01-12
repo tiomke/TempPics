@@ -1,3 +1,4 @@
 cd /Users/apple/Pictures/TempPics/
 git add .
 git commit -m"add pics"
+git push
